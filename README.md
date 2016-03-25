@@ -1,5 +1,4 @@
-![Convert from 32 -> 328P!](https://i.imgur.com/gLBivE0.png "Optional title")
-
+does not work
 
 # 32to328ptranslator
 Extendable shell script to translate ATMEGA32 code to ATMEGA328P code 
