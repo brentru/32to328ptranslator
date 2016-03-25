@@ -1,3 +1,6 @@
+![Alt text](https://i.imgur.com/59I4XKB.png "Optional title")
+
+
 # 32to328ptranslator
 Extendable shell script to translate ATMEGA32 code to ATMEGA328P code 
 
