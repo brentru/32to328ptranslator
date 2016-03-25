@@ -4,8 +4,10 @@ Extendable shell script to translate ATMEGA32 code to ATMEGA328P code
 
 # usage
 ↪ ./328ptranslate.sh
+
 atmel 32 to 328p translator created by @codingbrent
 your code is now 328p compatible
+
 ↪ cat ex11
 
 # to extend this translator with more values
