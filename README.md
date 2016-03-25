@@ -1,4 +1,4 @@
-![Alt text](https://i.imgur.com/59I4XKB.png "Optional title")
+![Convert from 32 -> 328P!](https://i.imgur.com/gLBivE0.png "Optional title")
 
 
 # 32to328ptranslator
